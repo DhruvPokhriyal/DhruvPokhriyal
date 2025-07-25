@@ -89,9 +89,8 @@ I believe in flowing with life—embracing an unhurried, joyful, and present jou
 
 ## 📬 Let's Connect
 
--   **LinkedIn**: `https://www.linkedin.com/in/your-profile`
--   **Email**: `your.email@example.com`
--   **Portfolio/Blog**: `https://your-site.com` *(optional)*
+-   **LinkedIn**: `www.linkedin.com/in/dhruvpokhriyal`
+-   **Email**: `dhruvpokhriyaltech@gmail.com`
 
 ---
 
