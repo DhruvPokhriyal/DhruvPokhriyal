@@ -85,8 +85,6 @@ I am a Computer Science undergraduate specializing in **Software Engineering**, 
 
 ## 🚀 Featured Projects
 
--   **Veritas Lens - Fact-Checking Chrome Extension** | `TypeScript, React, FastAPI` <br>
-    → Developing a browser extension to provide real-time fact-checking and source analysis, promoting information integrity on the web. *(In Progress)*
 
 -   **AI-Powered QnA Systems** | `LangChain, Python, VectorDBs` <br>
     → Engineered Retrieval-Augmented Generation (RAG) pipelines that enable users to perform semantic search and Q&A on private documents.
@@ -100,7 +98,6 @@ I am a Computer Science undergraduate specializing in **Software Engineering**, 
 
 -   Applying **Data Structures & Algorithms** to solve complex, competitive-level problems.
 -   Architecting secure and scalable **full-stack applications with Next.js and TypeScript**.
--   Exploring **Cybersecurity** fundamentals, including network security and ethical hacking principles.
 -   Building advanced **RAG and agentic workflows** for autonomous AI systems.
 
 ---
