@@ -105,6 +105,6 @@ I am a Computer Science undergraduate specializing in **Software Engineering**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Dhruv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Dhruv's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvPokhriyal&show_icons=true&theme=radical&rank_icon=github" alt="Dhruv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvPokhriyal&layout=compact&theme=radical" alt="Dhruv's Top Languages" />
 </p>
