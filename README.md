@@ -85,6 +85,8 @@ I am a Computer Science undergraduate specializing in **Software Engineering**, 
 
 ## 🚀 Featured Projects
 
+-   **Adversarial ML Research** | `Python, TensorFlow, Scikit-learn` <br>
+    → Investigating the robustness of deep learning models against adversarial attacks and exploring novel defense mechanisms. *(Research in Progress)*
 
 -   **AI-Powered QnA Systems** | `LangChain, Python, VectorDBs` <br>
     → Engineered Retrieval-Augmented Generation (RAG) pipelines that enable users to perform semantic search and Q&A on private documents.
@@ -99,6 +101,13 @@ I am a Computer Science undergraduate specializing in **Software Engineering**, 
 -   Applying **Data Structures & Algorithms** to solve complex, competitive-level problems.
 -   Architecting secure and scalable **full-stack applications with Next.js and TypeScript**.
 -   Building advanced **RAG and agentic workflows** for autonomous AI systems.
+
+---
+
+## 🎓 Education & Certifications
+
+-   **B.Tech in Computer Science & Engineering** - IIT Tirupati `(2024 - Present)`
+-   **Machine Learning Specialization** - DeepLearning.AI & Stanford Online (Coursera) `(In Progress)`
 
 ---
 
